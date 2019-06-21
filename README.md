@@ -7,7 +7,7 @@ In the web page you can select which LEDs you want to turn ON or OFF and you can
 
 ## Roll The Dice
 ### Description
-This is similar to the action "Rolling one Dice" and you can see the dice and the number in the LED matrix. In the 8 segment display, you can see the number that came out the most (smaller numbers have priority).
+This is similar to the action "Rolling a Dice" and you can see the dice and the number in the LED matrix. In the 8 segment display, you can see the number that came out the most (smaller numbers have priority).
 
 ## Temp & Hum Sensor
 ### Description
